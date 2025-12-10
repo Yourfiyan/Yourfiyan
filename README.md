@@ -21,7 +21,13 @@
       <img src="https://img.icons8.com/?size=100&id=43932&format=png&color=ef4f91" width="30" height="30" alt="Website/Portfolio">
     </a>
     </div>
-  <p>
+<p>
     <i>Feel free to reach out for collaborations, questions, or just to say hello!</i>
   </p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake.svg">
+</picture>
