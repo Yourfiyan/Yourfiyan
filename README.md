@@ -1,33 +1,42 @@
-<h1>Hi there, I'm Syed Sufiyan Hamza <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px" alt="wave"></h1>
-<br>
+# Syed Sufiyan Hamza
 
-<div>
-  <a href="https://git.io/typing-svg" rel="noreferrer nofollow">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&pause=1000&duration=2000&color=ef4f91&center=true&vCenter=true&width=600&lines=Student+Developer+%26+AI+Enthusiast;Python+%26+Web+Development;Cybersecurity+Explorer;Creator+of+'PocketPhone'" alt="Typing SVG">
-  </a>
-</div>
+**Full-stack developer and AI engineer** building real-world applications with Python, TypeScript, and modern web technologies.
 
-<div>
-  <p>
-    I'm a Class 10 student from Assam passionate about building real-world applications. With experience in Python, AI , and full-stack web development, I'm the creator of projects like 'PocketPhone'. I'm constantly exploring new tech, with a current focus on cybersecurity and AI-driven pentesting.
-  </p>
-  
-  <h3>Connect with me:</h3>
-  <div>
-    <a href="mailto:yourfiyan@proton.me" rel="noreferrer nofollow">
-      <img src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=ef4f91" width="30" height="30" alt="Email">
-    </a>&nbsp;&nbsp;
-    <a href="http://yourfiyan.qzz.io/" rel="noreferrer nofollow">
-      <img src="https://img.icons8.com/?size=100&id=43932&format=png&color=ef4f91" width="30" height="30" alt="Website/Portfolio">
-    </a>
-    </div>
-<p>
-    <i>Feel free to reach out for collaborations, questions, or just to say hello!</i>
-  </p>
-</div>
+## What I Build
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake.svg">
-</picture>
+- **AI agents** — Multi-agent orchestration systems using Google Gemini for production-grade automation
+- **Civic tech** — Full-stack data platforms with React, Express, PostgreSQL/PostGIS, and interactive mapping
+- **Web applications** — From inventory management systems (PHP) to interactive front-end experiences
+
+## Featured Projects
+
+### [India Civic Transparency Platform](https://github.com/yourfiyan/india-civic-transparency)
+Full-stack civic data platform visualizing Indian public datasets — Supreme Court judgments, crime statistics, and infrastructure tracking. Built with React, TypeScript, Express, PostgreSQL + PostGIS, and a Python ETL pipeline.
+
+### [Customer Support AI Agent](https://github.com/yourfiyan/customer-support-ai-agent)
+Multi-agent customer support system with 4 specialized AI agents (classifier, researcher, writer, validator) orchestrated through Google Gemini. Includes a FastAPI backend and interactive web demo. Built for the Kaggle Agents Intensive.
+
+### [PocketPhone](https://github.com/yourfiyan/Pocketphone)
+Phone inventory management system with a secure admin panel, dynamic product showcase, and full CRUD operations. Built with PHP and vanilla front-end.
+
+## Tech Stack
+
+```
+Languages:    Python · TypeScript · JavaScript · PHP · HTML/CSS
+Frontend:     React · Vite · Tailwind CSS · Leaflet
+Backend:      Express · FastAPI · Node.js
+Data:         PostgreSQL · PostGIS · DuckDB · geopandas
+AI/ML:        Google Gemini · Multi-agent orchestration
+Tools:        Docker · Git · GitHub Actions
+```
+
+## Currently Exploring
+
+- Cybersecurity and AI-driven penetration testing
+- Advanced multi-agent AI systems
+- Open-source contributions
+
+## Contact
+
+- **Email:** yourfiyan@proton.me
+- **Portfolio:** [yourfiyan.is-a.dev](https://yourfiyan.is-a.dev)
