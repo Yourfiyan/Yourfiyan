@@ -36,7 +36,22 @@ Tools:        Docker · Git · GitHub Actions
 - Advanced multi-agent AI systems
 - Open-source contributions
 
-## Contact
+## Connect with me:
 
 - **Email:** yourfiyan@proton.me
 - **Portfolio:** [yourfiyan.is-a.dev](https://yourfiyan.is-a.dev)
+
+
+
+<p>
+    <i>Feel free to reach out for collaborations, questions, or just to say hello!</i>
+  </p>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/yourfiyan/yourfiyan/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+__________
